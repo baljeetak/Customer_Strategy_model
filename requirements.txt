@@ -2,6 +2,8 @@ numpy
 pandas
 matplotlib
 seaborn
-scikit_learn
-altair<5
-streamlit
+scikit-learn
+# Streamlit 1.39.0+ is required for Python 3.13 compatibility
+streamlit>=1.39.0
+# Altair 5+ is compatible with modern Streamlit
+altair>=5.0.0
