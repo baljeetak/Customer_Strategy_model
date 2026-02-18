@@ -3,4 +3,5 @@ pandas
 matplotlib
 seaborn
 scikit_learn
+altair<5
 streamlit
